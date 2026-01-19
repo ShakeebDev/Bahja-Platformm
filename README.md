@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>Lead Engineer:</strong> Jamal Al-Awady  
+  <strong>Lead Engineer:</strong> Shakeeb Al-Hashmy
 </p>
 
 ---
@@ -401,6 +401,6 @@ service cloud.firestore {
 
 ## 👨‍💻 Lead Engineer
 
-**Jamal Al-Awady**  
+**Shakeeb Al-Hashmy**  
 Software Engineer & System Architect  
 > Building intelligent digital ecosystems with Flutter & Firebase.
